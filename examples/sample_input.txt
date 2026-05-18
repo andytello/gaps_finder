@@ -1,0 +1,6 @@
+1 122, 4953 5048, 200 300
+
+# Notes:
+# - Each pair is a start and end position
+# - Use spaces, commas or new lines as separators
+# - The script reads numeric values from the text and finds missing gaps
