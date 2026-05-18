@@ -16,7 +16,7 @@ When analysing biological data such as BLAST results, it's very hard to see if t
 
 ## How to use
 
-1. Put your input ranges in `examples/sample_input.txt`.
+1. Put your input in the dedicacted line in main.py
 2. Run the script from the project folder:
 
 ```bash
